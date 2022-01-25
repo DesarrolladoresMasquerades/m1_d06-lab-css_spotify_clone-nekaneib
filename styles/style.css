@@ -6,3 +6,49 @@ Green: #00B172
 White: #FFF
 
 */
+
+body{
+    margin: 0px;
+}
+
+li {
+  float: right;
+  list-style: none;
+}
+
+
+h1{
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    size: 3000px;
+    font-family: monospace;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h2{
+    position: absolute;
+    color: white;
+    size: 3000px;
+    font-family: monospace;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h3{
+    position: absolute;
+    color: white;
+    size: 3000px;
+    font-family: monospace;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div{
+    
+    
+}
